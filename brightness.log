@@ -1,0 +1,214 @@
+2024-09-10 20:31:27,642 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 20:31:27,707 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 20:31:27,766 - INFO - Brightness set to 31
+2024-09-10 20:36:27,801 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 20:36:27,852 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 20:36:27,917 - INFO - Brightness set to 30
+2024-09-10 20:41:27,971 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 20:41:28,027 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 20:41:28,087 - INFO - Brightness set to 29
+2024-09-10 20:46:28,183 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 20:46:28,285 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 20:46:28,339 - INFO - Brightness set to 28
+2024-09-10 20:51:28,390 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 20:51:28,447 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 20:51:28,511 - INFO - Brightness set to 27
+2024-09-10 20:56:28,585 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 20:56:28,640 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 20:56:28,700 - INFO - Brightness set to 26
+2024-09-10 21:01:28,736 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 21:01:28,815 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 21:01:28,871 - INFO - Brightness set to 25
+2024-09-10 22:34:22,528 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 22:34:22,589 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 22:34:22,648 - INFO - Brightness set to 25
+2024-09-10 22:36:08,999 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 22:36:09,054 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-10 22:36:09,119 - INFO - Brightness set to 25
+2024-09-11 09:17:40,816 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 09:17:40,869 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 09:17:40,931 - INFO - Brightness set to 75
+2024-09-11 16:59:11,988 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 16:59:12,042 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 16:59:12,106 - INFO - Brightness set to 74
+2024-09-11 17:03:12,142 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:03:12,197 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:03:12,264 - INFO - Brightness set to 73
+2024-09-11 17:08:12,308 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:08:12,359 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:08:12,422 - INFO - Brightness set to 72
+2024-09-11 17:13:12,514 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:13:12,582 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:13:12,649 - INFO - Brightness set to 71
+2024-09-11 17:18:14,183 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:18:14,240 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:18:14,296 - INFO - Brightness set to 70
+2024-09-11 17:23:14,405 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:23:14,516 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:23:14,580 - INFO - Brightness set to 69
+2024-09-11 17:28:14,690 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:28:14,800 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:28:14,859 - INFO - Brightness set to 68
+2024-09-11 17:33:14,923 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:33:15,002 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:33:15,060 - INFO - Brightness set to 67
+2024-09-11 17:38:15,156 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:38:15,249 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:38:15,305 - INFO - Brightness set to 66
+2024-09-11 17:43:15,342 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:43:15,396 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:43:15,452 - INFO - Brightness set to 65
+2024-09-11 17:48:15,516 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:48:15,625 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:48:15,685 - INFO - Brightness set to 64
+2024-09-11 17:52:15,777 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:52:15,953 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:52:16,013 - INFO - Brightness set to 63
+2024-09-11 17:57:16,089 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:57:16,151 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 17:57:16,217 - INFO - Brightness set to 62
+2024-09-11 18:02:16,320 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:02:16,428 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:02:16,487 - INFO - Brightness set to 61
+2024-09-11 18:07:16,566 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:07:16,640 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:07:16,703 - INFO - Brightness set to 60
+2024-09-11 18:12:16,758 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:12:16,812 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:12:16,867 - INFO - Brightness set to 59
+2024-09-11 18:17:16,917 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:17:17,006 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:17:17,073 - INFO - Brightness set to 58
+2024-09-11 18:22:17,107 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:22:17,164 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:22:17,232 - INFO - Brightness set to 57
+2024-09-11 18:27:17,315 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:27:17,408 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:27:17,463 - INFO - Brightness set to 56
+2024-09-11 18:32:17,533 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:32:17,589 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:32:17,648 - INFO - Brightness set to 55
+2024-09-11 18:37:17,718 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:37:17,774 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 18:37:17,837 - INFO - Brightness set to 54
+2024-09-11 19:01:48,457 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:01:48,511 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:01:48,583 - INFO - Brightness set to 50.0
+2024-09-11 19:06:18,646 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:06:18,708 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:06:18,775 - INFO - Brightness set to 48
+2024-09-11 19:32:58,760 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:32:58,811 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:32:58,874 - INFO - Brightness set to 50.0
+2024-09-11 19:33:42,033 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:33:42,085 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:33:42,147 - INFO - Brightness set to 50.0
+2024-09-11 19:35:12,204 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:35:12,259 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:35:12,320 - INFO - Brightness set to 42
+2024-09-11 19:35:44,102 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:35:44,153 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:35:44,221 - INFO - Brightness set to 50.0
+2024-09-11 19:37:11,167 - INFO - Started.
+2024-09-11 19:37:11,209 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:37:11,260 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:37:11,318 - INFO - Brightness set to 50.0
+2024-09-11 19:40:11,375 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:40:11,426 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:40:11,482 - INFO - Brightness set to 41
+2024-09-11 19:40:12,398 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:40:12,470 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:40:12,538 - INFO - Brightness set to 41
+2024-09-11 19:40:14,314 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:40:14,395 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:40:14,449 - INFO - Brightness set to 41
+2024-09-11 19:45:11,569 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:45:11,625 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:45:11,683 - INFO - Brightness set to 40
+2024-09-11 19:45:12,591 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:45:12,695 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:45:12,757 - INFO - Brightness set to 40
+2024-09-11 19:45:14,482 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:45:14,536 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:45:14,591 - INFO - Brightness set to 40
+2024-09-11 19:50:11,774 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:50:11,843 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:50:11,904 - INFO - Brightness set to 39
+2024-09-11 19:50:12,832 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:50:12,931 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:50:12,993 - INFO - Brightness set to 39
+2024-09-11 19:50:14,672 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:50:14,730 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:50:14,795 - INFO - Brightness set to 39
+2024-09-11 19:55:11,981 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:55:12,032 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:55:12,084 - INFO - Brightness set to 38
+2024-09-11 19:55:13,060 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:55:13,121 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:55:13,188 - INFO - Brightness set to 38
+2024-09-11 19:55:14,883 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:55:14,941 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 19:55:14,999 - INFO - Brightness set to 38
+2024-09-11 20:00:12,176 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:00:12,250 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:00:12,310 - INFO - Brightness set to 37
+2024-09-11 20:00:13,294 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:00:13,384 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:00:13,449 - INFO - Brightness set to 37
+2024-09-11 20:00:15,029 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:00:15,117 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:00:15,180 - INFO - Brightness set to 37
+2024-09-11 20:05:12,393 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:05:12,450 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:05:12,518 - INFO - Brightness set to 36
+2024-09-11 20:05:13,538 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:05:13,611 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:05:13,664 - INFO - Brightness set to 36
+2024-09-11 20:05:15,256 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:05:15,398 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:05:15,455 - INFO - Brightness set to 36
+2024-09-11 20:10:12,586 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:10:12,652 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:10:12,715 - INFO - Brightness set to 35
+2024-09-11 20:10:13,742 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:10:13,814 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:10:13,871 - INFO - Brightness set to 35
+2024-09-11 20:10:15,535 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:10:15,627 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:10:15,679 - INFO - Brightness set to 35
+2024-09-11 20:15:12,792 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:15:12,845 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:15:12,912 - INFO - Brightness set to 34
+2024-09-11 20:15:13,971 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:15:14,040 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:15:14,097 - INFO - Brightness set to 34
+2024-09-11 20:15:15,778 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:15:15,859 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:15:15,912 - INFO - Brightness set to 34
+2024-09-11 20:19:13,010 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:19:13,077 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:19:13,142 - INFO - Brightness set to 33
+2024-09-11 20:19:14,177 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:19:14,256 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:19:14,315 - INFO - Brightness set to 33
+2024-09-11 20:19:15,960 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:19:16,051 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:19:16,114 - INFO - Brightness set to 33
+2024-09-11 20:24:13,204 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:24:13,265 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:24:13,323 - INFO - Brightness set to 32
+2024-09-11 20:24:14,346 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:24:14,400 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:24:14,453 - INFO - Brightness set to 32
+2024-09-11 20:24:16,142 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:24:16,204 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:24:16,263 - INFO - Brightness set to 32
+2024-09-11 20:29:13,361 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:29:13,423 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:29:13,490 - INFO - Brightness set to 31
+2024-09-11 20:29:14,542 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:29:14,618 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:29:14,686 - INFO - Brightness set to 31
+2024-09-11 20:29:16,297 - WARNING - get_display_info: failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:29:16,371 - WARNING - failed to gather list of laptop displays - x_wmi: <x_wmi: Unexpected COM Error (-2147217396, 'OLE error 0x8004100c', None, None)>
+2024-09-11 20:29:16,434 - INFO - Brightness set to 31
