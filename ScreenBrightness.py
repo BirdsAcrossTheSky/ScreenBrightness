@@ -5,12 +5,15 @@ from datetime import datetime, timedelta
 import pandas as pd
 import functools
 import logging
+import os
 
 
+script_path = os.path.dirname(os.path.abspath(__file__))
 logging.basicConfig(
-    filename=r'F:\Programming\VisualStudio\ScreenBrightness\brightness.log',
+    filename=f'{script_path}/brightness.log',
     level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    datefmt='%Y-%m-%d %H:%M:%S'
 )
 
 def SetBrightness(value):
