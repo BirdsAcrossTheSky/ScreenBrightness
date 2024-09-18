@@ -15,7 +15,7 @@ In order to run use script you need to do the following:
 4. Swap the paths in ScreenBrightness.bat file with the locations of files listed below on your machine.
     a) pythonw.exe
     b) ScreenBrightness
-5. Put the .bat file into your Autostart window. (You can open it using WindowsKey + R and then type shell:startup)
+5. Put the .bat file into your Autostart folder. (You can open it using WindowsKey + R and then type shell:startup)
 
-Congratulations! Now everytime you start your computer the script will be running in the background adjusting the brightness of your screen based on parameters you set up. 
+Congratulations! Now every time you start your computer the script will be running in the background adjusting the brightness of your screen based on parameters you set. 
 Enjoy!
